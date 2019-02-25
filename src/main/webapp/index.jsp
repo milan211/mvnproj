@@ -10,7 +10,7 @@
         <h1>Hello from SathyaTech</h1>
         <h1>Hello from SathyaTech</h1>
         <h1>Hello from SathyaTech</h1>
-        <h1>Hello from SathyaTech</h1>
+        
         <h1>Hello from jenkins</h1>
 	<h1>Hello from gkrout</h1>
 	<h1>Hello from devops</h1>
